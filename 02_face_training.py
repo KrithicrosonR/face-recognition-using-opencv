@@ -4,7 +4,7 @@ Training Multiple Faces stored on a DataBase:
 	==> LBPH computed model will be saved on trainer/ directory. (if it does not exist, pls create one)
 	==> for using PIL, install pillow library with "pip install pillow"
 
-Based on original code by Anirban Kar: https://github.com/thecodacus/Face-Recognition    
+ 
 
 Developed by Marcelo Rovai - MJRoBot.org @ 21Feb18   
 
